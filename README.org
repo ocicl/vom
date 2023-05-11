@@ -1,0 +1,9 @@
+* vom
+
+Vom is a logging library for lisp.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/orthecreedence/vom.git |
+| commit  | 1aeafeb                                       |
+| systems | vom                                           |
+|---------+-----------------------------------------------|
