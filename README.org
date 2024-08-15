@@ -4,6 +4,6 @@ Vom is a logging library for lisp.
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/orthecreedence/vom.git |
-| commit  | 1aeafeb                                       |
+| commit  | 303c3f6                                       |
 | systems | vom                                           |
 |---------+-----------------------------------------------|
